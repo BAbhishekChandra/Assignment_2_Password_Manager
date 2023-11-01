@@ -1,0 +1,99 @@
+.yellow {
+  background-color: #f59e0b;
+}
+
+.green {
+  background-color: #10b981;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.brown {
+  background-color: #b91c1c;
+}
+
+.blue {
+  background-color: #0ea5e9;
+}
+
+.password-item-container {
+  border: 2px solid #b6c3ca;
+  border-radius: 5px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.first-letter-container {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px 0 15px;
+}
+
+.first-letter {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.content-container {
+  margin: 0 5px 0 0;
+}
+
+.website-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0;
+  margin: 15px 0 5px 0;
+}
+
+.username {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  padding: 0;
+  margin: 10px 0 10px 0;
+}
+
+.password {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  padding: 0;
+  margin: 10px 0 15px 0;
+}
+
+.password-hidden-image {
+  width: 100px;
+  height: 10px;
+}
+
+.delete-button-container {
+  padding: 1px;
+}
+
+.delete-button {
+  border: none;
+  background-color: transparent;
+  margin-left: 30px;
+  cursor: pointer;
+  outline: none;
+}
+
+.delete-button-image {
+  width: 40%;
+  height: 40%;
+}
